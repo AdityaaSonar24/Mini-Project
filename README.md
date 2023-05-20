@@ -1,2 +1,11 @@
-# Mini-Project
-It is Temperature Converter Website. It will involve validation of the user input, using the dropdown menu to know if the input is celsius or Fahrenheit. You can add more functionality to it.
+# Temperature Converter
+Converts temperature (in C, F or K) to other units.
+
+### Live version: ###
+https://temperatureconverter.netlify.com
+
+### Created using: ###
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
